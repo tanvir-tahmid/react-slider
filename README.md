@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+![react slider 1](https://i.imgur.com/hSC1BBs.png)
+![react slider 2](https://i.imgur.com/AeFz5pi.png)
+![react slider 3](https://i.imgur.com/veNDSRA.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
